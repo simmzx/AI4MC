@@ -5,5 +5,6 @@
 
 
 
-# AI4MC
-This is a repository collecting AI4MC papers
+<h1 align="center">  AI4MC - AI for Medicinal Chemistry </h1>
+<h3 align="center"> This is a continuously updated repository collecting AI4MC papers <br>
+  in Drug Discovery </h3>
