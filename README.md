@@ -11,9 +11,9 @@
 
 
 <!-- 1. 加粗并放大主标题（内联样式通常有效） -->
-  <summary>
-    <strong style="font-size: 1.3em;">Single Step Reaction</strong> (点击展开/折叠)
-  </summary>
+<summary>
+  <strong style="font-size: 1.3em;">Single Step Reaction</strong> (点击展开/折叠)
+</summary>
 
   <!-- 2. 增大主折叠块与第一个次级块的距离：使用两个 <br> 换行（精确控制可用多个） -->
   <br><br>
