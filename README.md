@@ -11,17 +11,14 @@
 
 
 <details>
-  <summary><strong>Single Step Reaction</strong> (点击展开/折叠)</summary>
-
-  <!-- 2. 增大主折叠块与第一个次级块的距离：使用两个 <br> 换行（精确控制可用多个） -->
-  <br>
+  <summary><strong>Single Step Reaction</strong></summary>
 
   <!-- 3. 为四个次级折叠块添加缩进：用 <blockquote> 包裹，自动产生左缩进 -->
   <blockquote>
 
   <!-- 第一个次级折叠块 -->
   <details>
-    <summary><strong>Template based</strong> (点击展开/折叠)</summary>
+    <summary><strong>Template based</strong></summary>
     
     <!-- 这里放置 Template based 的具体内容，可以是文本、列表、代码等 -->
     <ul>
@@ -33,21 +30,21 @@
 
   <!-- 第二个次级折叠块 -->
   <details>
-    <summary><strong>Semi Template based</strong> (点击展开/折叠)</summary>
+    <summary><strong>Semi Template based</strong></summary>
     
     <p>Semi Template based 的描述内容...</p>
   </details>
 
   <!-- 第三个次级折叠块 -->
   <details>
-    <summary><strong>Template free</strong> (点击展开/折叠)</summary>
+    <summary><strong>Template free</strong></summary>
     
     <p>Template free 的具体信息。</p>
   </details>
 
   <!-- 第四个次级折叠块 -->
   <details>
-    <summary><strong>LLM based</strong> (点击展开/折叠)</summary>
+    <summary><strong>LLM based</strong></summary>
     
     <p>LLM based 的相关说明。</p>
   </details>
