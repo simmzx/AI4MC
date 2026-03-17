@@ -10,7 +10,7 @@
   in Drug Discovery </h3>
 
 
-<details>
+<details open>
   <summary><strong>Single Step Reaction</strong></summary>
   <br><br>
   <!-- 3. 为四个次级折叠块添加缩进：用 <blockquote> 包裹，自动产生左缩进 -->
@@ -51,20 +51,3 @@
 
 </details>
 
-<details open>
-  <summary>📁 第一级折叠面板</summary>
-  
-  这里是第一级折叠面板的内容。
-  
-  <details>
-    <summary>第二级折叠面板</summary>
-    
-    这里是第二级折叠面板的内容。
-    
-    <details>
-      <summary>第三级折叠面板</summary>
-      
-      这里是第三级折叠面板的内容。
-    </details>
-  </details>
-</details>
