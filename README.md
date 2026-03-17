@@ -14,7 +14,7 @@
   <summary><strong>Single Step Reaction</strong> (点击展开/折叠)</summary>
 
   <!-- 2. 增大主折叠块与第一个次级块的距离：使用两个 <br> 换行（精确控制可用多个） -->
-  <br><br>
+  <br>
 
   <!-- 3. 为四个次级折叠块添加缩进：用 <blockquote> 包裹，自动产生左缩进 -->
   <blockquote>
