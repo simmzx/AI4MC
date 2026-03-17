@@ -60,7 +60,7 @@
 </details>
 
 
-<details
+<details>
   <summary><strong>Reaction Conditions</strong></summary>
   <br><br>
   <!-- 3. 为四个次级折叠块添加缩进：用 <blockquote> 包裹，自动产生左缩进 -->
@@ -68,7 +68,7 @@
 
 </details>
 
-<details
+<details>
   <summary><strong>Agent & Selt-driving Lab</strong></summary>
   <br><br>
   <!-- 3. 为四个次级折叠块添加缩进：用 <blockquote> 包裹，自动产生左缩进 -->
