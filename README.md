@@ -10,14 +10,39 @@
   in Drug Discovery </h3>
 
 <details>
+  <summary><strong>Single Step Reaction</strong> (点击展开/折叠)</summary>
 
-<summary>Single Step Reaction</summary>
+  <!-- 第一个次级折叠块 -->
+  <details>
+    <summary><strong>Template based</strong> (点击展开/折叠)</summary>
+    
+    <!-- 这里放置 Template based 的具体内容，可以是文本、列表、代码等 -->
+    <ul>
+      <li>示例项 1</li>
+      <li>示例项 2</li>
+      <li>示例项 3</li>
+    </ul>
+  </details>
 
-<summary>Template based</summary>
+  <!-- 第二个次级折叠块 -->
+  <details>
+    <summary><strong>Semi Template based</strong> (点击展开/折叠)</summary>
+    
+    <p>Semi Template based 的描述内容...</p>
+  </details>
 
-You can add text within a collapsed section.
+  <!-- 第三个次级折叠块 -->
+  <details>
+    <summary><strong>Template free</strong> (点击展开/折叠)</summary>
+    
+    <p>Template free 的具体信息。</p>
+  </details>
 
-You can add an image or a code block, too.
-
+  <!-- 第四个次级折叠块 -->
+  <details>
+    <summary><strong>LLM based</strong> (点击展开/折叠)</summary>
+    
+    <p>LLM based 的相关说明。</p>
+  </details>
 
 </details>
