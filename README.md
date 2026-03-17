@@ -11,11 +11,11 @@
 
 
 <details>
-  <summary><strong>###Single Step Reaction</strong> (点击展开/折叠)</summary>
+  <summary><strong>Single Step Reaction</strong> (点击展开/折叠)</summary>
 
   <!-- 第一个次级折叠块 -->
   <details>
-    <summary><strong>Template based</strong> (点击展开/折叠)</summary>
+    <summary>Template based</summary>
     
     <!-- 这里放置 Template based 的具体内容，可以是文本、列表、代码等 -->
     <ul>
