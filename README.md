@@ -11,16 +11,13 @@
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>Single Step Reaction</summary>
 
-### You can add a header
+<summary>Template based</summary>
 
 You can add text within a collapsed section.
 
 You can add an image or a code block, too.
 
-```ruby
-   puts "Hello World"
-```
 
 </details>
