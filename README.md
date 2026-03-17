@@ -13,6 +13,12 @@
 <details>
   <summary><strong>Single Step Reaction</strong> (点击展开/折叠)</summary>
 
+  <!-- 2. 增大主折叠块与第一个次级块的距离 -->
+  <div style="margin-top: 15px;"></div>  <!-- 空 div 仅用于增加间距，也可用 <br> 但不够灵活 -->
+
+  <!-- 3. 为四个次级折叠块添加统一的左缩进，增强层次感 -->
+  <div style="margin-left: 25px;">
+
   <!-- 第一个次级折叠块 -->
   <details>
     <summary>Template based</summary>
