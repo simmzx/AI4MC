@@ -8,3 +8,19 @@
 <h1 align="center">  AI4MC - AI for Medicinal Chemistry </h1>
 <h3 align="center"> This is a continuously updated repository collecting AI4MC papers <br>
   in Drug Discovery </h3>
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
