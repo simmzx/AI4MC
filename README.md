@@ -50,3 +50,21 @@
   </details>
 
 </details>
+
+<details open>
+  <summary>📁 第一级折叠面板</summary>
+  
+  这里是第一级折叠面板的内容。
+  
+  <details>
+    <summary>第二级折叠面板</summary>
+    
+    这里是第二级折叠面板的内容。
+    
+    <details>
+      <summary>第三级折叠面板</summary>
+      
+      这里是第三级折叠面板的内容。
+    </details>
+  </details>
+</details>
