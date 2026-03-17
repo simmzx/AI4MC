@@ -10,7 +10,7 @@
   in Drug Discovery </h3>
 
 
-<details open>
+<details>
   <summary><strong>Single Step Reaction</strong></summary>
   <br><br>
   <!-- 3. 为四个次级折叠块添加缩进：用 <blockquote> 包裹，自动产生左缩进 -->
@@ -51,10 +51,45 @@
 
 </details>
 
-<details open>
+<details
   <summary><strong>Multi Step Retrosynthesis</strong></summary>
   <br><br>
   <!-- 3. 为四个次级折叠块添加缩进：用 <blockquote> 包裹，自动产生左缩进 -->
   <blockquote>
 
+</details>
 
+
+<details
+  <summary><strong>Reaction Conditions</strong></summary>
+  <br><br>
+  <!-- 3. 为四个次级折叠块添加缩进：用 <blockquote> 包裹，自动产生左缩进 -->
+  <blockquote>
+
+</details>
+
+<details
+  <summary><strong>Agent & Selt-driving Lab</strong></summary>
+  <br><br>
+  <!-- 3. 为四个次级折叠块添加缩进：用 <blockquote> 包裹，自动产生左缩进 -->
+  <blockquote>
+
+  <details>
+    <summary><strong>Agent</strong></summary>
+    
+    <!-- 这里放置 Template based 的具体内容，可以是文本、列表、代码等 -->
+    <ul>
+      <li>示例项 1</li>
+      <li>示例项 2</li>
+      <li>示例项 3</li>
+    </ul>
+  </details>
+
+  <!-- 第二个次级折叠块 -->
+  <details>
+    <summary><strong>Selt-driving Lab</strong></summary>
+    
+    <p>Semi Template based 的描述内容...</p>
+  </details>
+
+</details>
